@@ -6,3 +6,4 @@ Here you'll find my tutorials with Javascript
 2. [Celcius to Fahrenheit converter](https://github.com/dhmm/JavascriptTutorials/blob/master/tutorials/celcius_to_fahrenheit.js)
 3. [Reverse string tutorial](https://github.com/dhmm/JavascriptTutorials/blob/master/tutorials/reverse_string.js)
 4. [Finding factorial](https://github.com/dhmm/JavascriptTutorials/blob/master/tutorials/factorial.js)
+5. [Find longest word in a string](https://github.com/dhmm/JavascriptTutorials/blob/master/tutorials/find_longest_word.js)
