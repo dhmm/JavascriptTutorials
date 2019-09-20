@@ -8,3 +8,4 @@ Here you'll find my tutorials with Javascript
 4. [Finding factorial](https://github.com/dhmm/JavascriptTutorials/blob/master/tutorials/factorial.js)
 5. [Find longest word in a string](https://github.com/dhmm/JavascriptTutorials/blob/master/tutorials/find_longest_word.js)
 6. [Find largest numbers in subarrays](https://github.com/dhmm/JavascriptTutorials/blob/master/tutorials/largest_nums_in_subarrays.js)
+7. [Check if string end with a string](https://github.com/dhmm/JavascriptTutorials/blob/master/tutorials/ends_with.js)
