@@ -10,3 +10,4 @@ Here you'll find my tutorials with Javascript
 6. [Find largest numbers in subarrays](https://github.com/dhmm/JavascriptTutorials/blob/master/tutorials/largest_nums_in_subarrays.js)
 7. [Check if string ends with a string](https://github.com/dhmm/JavascriptTutorials/blob/master/tutorials/ends_with.js)
 8. [Find the first elemnt in array where passes our func](https://github.com/dhmm/JavascriptTutorials/blob/master/tutorials/check_truth.js)
+9. [Title case a sentence](https://github.com/dhmm/JavascriptTutorials/blob/master/tutorials/title_case.js)
