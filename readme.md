@@ -7,3 +7,4 @@ Here you'll find my tutorials with Javascript
 3. [Reverse string tutorial](https://github.com/dhmm/JavascriptTutorials/blob/master/tutorials/reverse_string.js)
 4. [Finding factorial](https://github.com/dhmm/JavascriptTutorials/blob/master/tutorials/factorial.js)
 5. [Find longest word in a string](https://github.com/dhmm/JavascriptTutorials/blob/master/tutorials/find_longest_word.js)
+6. [Find largest numbers in subarrays](https://github.com/dhmm/JavascriptTutorials/blob/master/tutorials/largest_nums_in_subarrays.js)
