@@ -11,3 +11,4 @@ Here you'll find my tutorials with Javascript
 7. [Check if string ends with a string](https://github.com/dhmm/JavascriptTutorials/blob/master/tutorials/ends_with.js)
 8. [Find the first elemnt in array where passes our func](https://github.com/dhmm/JavascriptTutorials/blob/master/tutorials/check_truth.js)
 9. [Title case a sentence](https://github.com/dhmm/JavascriptTutorials/blob/master/tutorials/title_case.js)
+10.[Merge 2 arrays from selected index](https://github.com/dhmm/JavascriptTutorials/blob/master/tutorials/merge_arrays.js)
